@@ -55,6 +55,6 @@ And I have modified these files:
 4. The prototype API should be developer configurable, to provide a level of certainty about network quality
 5. The prototype API should be able to access data on the charging state of the device in order to determine if a task should be executed.
 6. The prototype API should be able to access data on the battery level of the device in order to determine if a task should be executed.
-7. The prototype API should be able to access data about recent tx/rx data to determine if a task should be executed.
+7. The prototype API should be able to see if the device has an internet connection to determine if a task should be executed.
 8. The prototype API should be able to access latency-related network information to determine if a task should be executed.
-9. The prototype API should be able to function without error on Firefox OS, Firefox for Android, and Firefox for Desktop
+9. The prototype API should be able to function without error on Firefox for Desktop.
